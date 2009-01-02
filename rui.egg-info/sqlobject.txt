@@ -1,0 +1,2 @@
+db_module=rui.model
+history_dir=$base/rui/sqlobject-history
