@@ -1,9 +1,15 @@
+TODO
+====
 
-Sort out the display issues with the file sizes
-Add custom sort keys
-How to define kid custom functions?;
+- Think of a better name :/
+- Sort out the display issues with the file sizes
+- Add custom sort keys for the sortable tables
+- How to define kid custom functions?!
 
-http://code.google.com/p/wrtorrentpy/source/browse/trunk/core.py?r=6
-http://ajaxian.com/archives/effective-ajax-with-turbogears
-http://docs.turbogears.org/1.0/ValidateDecorator
-http://www.nabble.com/getJSON-and-(this)-td19357358s27240.html
+Resources
+========
+
+- http://code.google.com/p/wrtorrentpy/source/browse/trunk/core.py?r=6
+- http://ajaxian.com/archives/effective-ajax-with-turbogears
+- http://docs.turbogears.org/1.0/ValidateDecorator
+- http://www.nabble.com/getJSON-and-(this)-td19357358s27240.html
